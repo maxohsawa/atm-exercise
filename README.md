@@ -1,7 +1,7 @@
 # ATM Exercise
 
 ### Description
-This exercise demonstrates using React functional components and state to create an interactive ATM demo.
+This exercise demonstrates using React functional components and state to create an interactive ATM demo. It is based on starter code provided by MIT xPRO MERN Stack Professional Certification Course. Features added include not showing input interface until a selection is made from a drop down, and disabling the submit button until a valid amount is entered.
 
 ### How to Run
 Currently there is no live demo. It can be run locally with npm http-server and relies on React and Babel CDNs.
